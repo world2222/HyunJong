@@ -1,4 +1,4 @@
-# Welcome to HyunJong's github page!
+# Welcome to Kim Hyun Jong's github page!
 
 <img src = "https://github.com/world2222/HyunJong/assets/52661837/669a4bb4-949a-4c2d-b13a-37d3a8316035" width = 20%>
 
