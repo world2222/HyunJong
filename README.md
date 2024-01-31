@@ -1,4 +1,4 @@
-# Welcome to world2222's github page!
+# Welcome to world2222's github page! 🎉✨
 Hello! I'm studying computer science in [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/index.jsp)!  
 <br>
 
@@ -7,7 +7,7 @@ I'm now studying **Android Development** and my goal is to develop and manage my
 <br>
 <br>
 
-# What's my skills? 📖📜📒🖋️
+# What's my skills? 📖🖋️
 <img src = "https://github.com/world2222/HyunJong/assets/52661837/669a4bb4-949a-4c2d-b13a-37d3a8316035" width = 10%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/b6866fb6-d0fe-45b5-b5f7-a5cf7b57d191" width = 10%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/d0f646cc-1539-45f9-b479-f2efb3607ae4" width = 10%>
@@ -40,7 +40,7 @@ This was the assignment for the **Mobile Programming** class in my uni, and I co
 <br>
 <br>
 
-# Thank you! 🥰🥰🥰
+# Thank you! 🥰🥰
 Thank you so much for visiting my github profile and feel free to contact me for projects! 😁👍  
 <br>
 제 github 프로필을 방문해 주셔서 감사합니다! 프로젝트 협업 인원을 찾고 계신다면 언제든지 연락주세요! 😁👍  
