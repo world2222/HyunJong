@@ -41,16 +41,16 @@ This was the assignment for the **Mobile Programming** class in my uni, and I co
 <br>
 
 # Thank you!
-Thank you so much for visiting my github profile and feel free to contact me for projects!
+Thank you so much for visiting my github profile and feel free to contact me for projects!  
 <br>
-제 github 프로필을 방문해 주셔서 감사합니다! 프로젝트 협업 인원을 찾고 계신다면 언제든지 연락주세요!
+제 github 프로필을 방문해 주셔서 감사합니다! 프로젝트 협업 인원을 찾고 계신다면 언제든지 연락주세요!  
 <br>
-私のGithubプロフィールを訪問してくださって本当にありがとうございます！ プロジェクトを一緒に協業するデベロッパーが必要な場合、いつでもご連絡ください!
+私のGithubプロフィールを訪問してくださって本当にありがとうございます！ プロジェクトを一緒に協業するデベロッパーが必要な場合、いつでもご連絡ください!  
 <br>
-Vielen Dank für Ihren Besuch auf meinem Github-Profil und zögern Sie nicht, mich für Projekte zu kontaktieren!
+Vielen Dank für Ihren Besuch auf meinem Github-Profil und zögern Sie nicht, mich für Projekte zu kontaktieren!  
 <br>
-Merci beaucoup d'avoir visité mon profil github et n'hésitez pas à me contacter pour des projets !
+Merci beaucoup d'avoir visité mon profil github et n'hésitez pas à me contacter pour des projets!  
 <br>
-¡Muchas gracias por visitar mi perfil de github y no dudes en contactarme para proyectos!
+¡Muchas gracias por visitar mi perfil de github y no dudes en contactarme para proyectos!  
 <br>
-Большое спасибо, что посетили мой профиль на GitHub. Не стесняйтесь обращаться ко мне по поводу проектов!
+Большое спасибо, что посетили мой профиль на GitHub. Не стесняйтесь обращаться ко мне по поводу проектов!  
