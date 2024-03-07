@@ -1,4 +1,4 @@
-# Welcome to world2222's github page!
+# Welcome to HyunJong Kim's github page!
 Hello! I'm studying computer science in [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/index.jsp)!  
 <br>
 
