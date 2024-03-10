@@ -24,21 +24,32 @@ Also, for algorithm learning, I've been studying **Python**.
 <br>
 
 ## Language Skills
-Mother Tongue: Korean 🇰🇷  
-Fluent: English 🇬🇧 (OPIC AL), Japanese 🇯🇵 (JLPT N1)  
-Not bad: German 🇩🇪, French 🇫🇷, Spanish 🇪🇸, Russian 🇷🇺  
+Native: Korean 🇰🇷  
+Bilingual Proficiency: English 🇬🇧 (OPIC AL), Japanese 🇯🇵 (JLPT N1)  
+Elementary Proficiency: German 🇩🇪, French 🇫🇷, Russian 🇷🇺  
 
 <br>
 <br>
 
-# Main Project ***(1st Place)***
+# Stylish - Fashion trend in my hand
 <img src = "https://github.com/world2222/world2222/assets/52661837/2dfa11f7-4d8c-41d4-a788-ab3d4dc4a304" width = 20%>
 
-My main project is "Stylish" -> https://github.com/world2222/Stylish  
-This was the assignment for the **Mobile Programming** class in my uni, and I could win the ***1ST PLACE*** with this app!  
+### Link -> https://github.com/world2222/Stylish  
+- Developed with Jetpack Compose and took 1st place
+- Analyzed Material 3 from Material Design official webpage and implemented widgets from Material 3 before its official release on Jetpack Compose.
+- Implemented MVVM archiecture for better environment for the future possible collaborations.
+- Managed data by implementing API call through Ktor and Serialization.
+- Implemented the feature for search history and favorites using Room Database.
 <br>
 <br>
 <br>
+
+# Newtine - New routine of reading news
+<img src = "https://github.com/world2222/world2222/assets/52661837/d261ac68-9b6b-444b-9f5e-3a2a5af3ba98" width = 20%>
+
+### Link -> https://github.com/New-Tine/New-Tine-Android-Compose1
+
+
 
 # Thank you!
 Thank you so much for visiting my github profile and feel free to contact me for projects!  
@@ -50,7 +61,5 @@ Thank you so much for visiting my github profile and feel free to contact me for
 Vielen Dank für Ihren Besuch auf meinem Github-Profil und zögern Sie nicht, mich für Projekte zu kontaktieren!  
 <br>
 Merci beaucoup d'avoir visité mon profil github et n'hésitez pas à me contacter pour des projets!  
-<br>
-¡Muchas gracias por visitar mi perfil de github y no dudes en contactarme para proyectos!  
 <br>
 Большое спасибо, что посетили мой профиль на GitHub. Не стесняйтесь обращаться ко мне по поводу проектов!  
