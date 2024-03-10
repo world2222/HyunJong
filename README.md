@@ -35,9 +35,24 @@ Also, for algorithm learning, I've been studying **Python**.
 <br>
 
 ## Language Skills
-Native: Korean 🇰🇷  
-Bilingual Proficiency: English 🇬🇧 (OPIC AL), Japanese 🇯🇵 (JLPT N1)  
-Elementary Proficiency: German 🇩🇪, French 🇫🇷, Russian 🇷🇺  
+### Korean
+Native or Bilingual Proficiency  
+<br>
+### English (OPIC AL)
+Native or Bilingual Proficiency  
+<br>
+### Japanese (JLPT N1)
+Native or Bilingual Proficiency  
+<br>
+### German
+Elementary Proficiency  
+<br>
+### French
+Elementary Proficiency  
+<br>
+### Russian
+Elementary Proficiency  
+<br>
 
 <br>
 <br>
