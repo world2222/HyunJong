@@ -58,7 +58,7 @@ Elementary Proficiency: German 🇩🇪, French 🇫🇷, Russian 🇷🇺
 ### University MakeUs Challenge(UMC) collaborative app project
 ### https://github.com/New-Tine/New-Tine-Android-Compose1
 - Chaired the UI development team.
-- Explained the benefits of the Jetpack Compose and successfully persuaded to migrate from XML based codes to Kotlin, Jetpack Compose.
+- Explained the benefits of the Jetpack Compose to the team members at the start of the progress and successfully persuaded to migrate from XML based codes to Kotlin, Jetpack Compose.
 - Participated in the process of efficiently configuring the database structure and API call method by communicating frequently with the back-end development team.
 - Implemented the UI to be absolutely the same as the design draft by communicating frequently with the designer and requesting the needed image files using Figma.
 - Accomplished to implement the Material 3 ScrollableTapRow having shorter tab width by analyzing the official codes and manipulating certain parts.
