@@ -1,8 +1,5 @@
 # Welcome to HyunJong Kim's github page!
-Hello! I'm studying computer science in [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/index.jsp)!  
-<br>
-
-I'm now studying **Android Development** and my goal is to develop and manage my own app and giving service to the people all around the world! :)  
+Hello! I'm HyunJong Kim and studying Android, Web and Backend development altogether :)
 
 <br>
 <br>
