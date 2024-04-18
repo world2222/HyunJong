@@ -111,5 +111,5 @@ Thank you so much for visiting my github profile and feel free to contact me for
 <br>
 Vielen Dank für Ihren Besuch auf meinem Github-Profil und zögern Sie nicht, mich für Projekte zu kontaktieren!  
 <br>
-非常感谢您访问我的 github 个人资料，并随时与我联系以了解项目！
+感谢您访问我的github！ 如果您正在寻找项目合作人员,请随时联系我!
 <br>
