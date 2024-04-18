@@ -9,10 +9,13 @@ I'm now studying **Android Development** and my goal is to develop and manage my
 
 # Skills
 ### Frameworks
-<img src = "https://github.com/world2222/HyunJong/assets/52661837/669a4bb4-949a-4c2d-b13a-37d3a8316035" width = 10%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/b6866fb6-d0fe-45b5-b5f7-a5cf7b57d191" width = 10%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/d0f646cc-1539-45f9-b479-f2efb3607ae4" width = 10%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/a5b20f05-bb9f-4ff5-85a4-051f73452519" width = 10%>
+<img src = "https://github.com/world2222/world2222/assets/52661837/77d3821f-fe86-4d51-a8bd-732b8db83dc0" width = 10%>
+<img src = "https://github.com/world2222/world2222/assets/52661837/e80dc3d7-7316-45ef-9d4e-8129532ab7cf" width = 10%>
+
+
 
 <br>
 <br>
@@ -21,7 +24,9 @@ I'm now studying **Android Development** and my goal is to develop and manage my
 <img src = "https://github.com/world2222/world2222/assets/52661837/7ef7cbdd-b698-4337-96a1-b57d888dcf32" width = 10%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/82991cb7-5d93-443b-82cf-04bea1c9c580" width = 11%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/f62d4755-c158-498c-9c41-f1521862b754" width = 10%>
-
+<img src = "https://github.com/world2222/world2222/assets/52661837/ac908bdd-d4bc-41c4-8c94-449524ad3282" width = 10%>
+<img src = "https://github.com/world2222/world2222/assets/52661837/c201bfe7-17f3-4ccc-a325-26fb37457e6a" width = 10%>
+<img src = "https://github.com/world2222/world2222/assets/52661837/82e6e658-8a82-4f63-b91d-13dc28041b21" width = 10%>
 
 
 
@@ -47,10 +52,7 @@ Native or Bilingual Proficiency
 ### German
 Elementary Proficiency  
 <br>
-### French
-Elementary Proficiency  
-<br>
-### Russian
+### Chinese
 Elementary Proficiency  
 <br>
 
@@ -109,6 +111,5 @@ Thank you so much for visiting my github profile and feel free to contact me for
 <br>
 Vielen Dank für Ihren Besuch auf meinem Github-Profil und zögern Sie nicht, mich für Projekte zu kontaktieren!  
 <br>
-Merci beaucoup d'avoir visité mon profil github et n'hésitez pas à me contacter pour des projets!  
+非常感谢您访问我的 github 个人资料，并随时与我联系以了解项目！
 <br>
-Большое спасибо, что посетили мой профиль на GitHub. Не стесняйтесь обращаться ко мне по поводу проектов!  
