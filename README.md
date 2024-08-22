@@ -19,6 +19,7 @@ Hello! I'm HyunJong Kim and studying Android, Web and Backend development altoge
 
 ### Programming Language Skills
 <img src = "https://github.com/world2222/world2222/assets/52661837/7ef7cbdd-b698-4337-96a1-b57d888dcf32" width = 10%>
+<img src = "https://github.com/user-attachments/assets/8ebee67b-8463-4631-ac07-c883e092249e" width = 10%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/82991cb7-5d93-443b-82cf-04bea1c9c580" width = 11%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/f62d4755-c158-498c-9c41-f1521862b754" width = 10%>
 <img src = "https://github.com/world2222/world2222/assets/52661837/ac908bdd-d4bc-41c4-8c94-449524ad3282" width = 10%>
