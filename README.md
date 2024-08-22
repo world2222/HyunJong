@@ -31,12 +31,6 @@ Hello! I'm HyunJong Kim and studying Android, Web and Backend development altoge
 <br>
 <br>
 
-Because I'm studying android and aiming to become an android app developer, I've been studying **Android Studio**, using **Jetpack Compose** with **Kotlin** language.  
-<br>
-Also, for algorithm learning, I've been studying **Python**.  
-<br>
-<br>
-
 ## Language Skills
 ### Korean
 Native or Bilingual Proficiency  
