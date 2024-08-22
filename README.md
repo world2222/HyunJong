@@ -95,12 +95,3 @@ Elementary Proficiency
 
 # Thank you!
 Thank you so much for visiting my github profile and feel free to contact me for projects!  
-<br>
-제 github 프로필을 방문해 주셔서 감사합니다! 프로젝트 협업 인원을 찾고 계신다면 언제든지 연락주세요!  
-<br>
-私のGithubプロフィールを訪問してくださって本当にありがとうございます！ プロジェクトを一緒に協業するデベロッパーが必要な場合、いつでもご連絡ください!  
-<br>
-Vielen Dank für Ihren Besuch auf meinem Github-Profil und zögern Sie nicht, mich für Projekte zu kontaktieren!  
-<br>
-感谢您访问我的github！ 如果您正在寻找项目合作人员,请随时联系我!
-<br>
